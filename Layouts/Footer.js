@@ -11,20 +11,14 @@ function Footer() {
           {/* Company */}{' '}
           <a
             className="text-gray-500"
-            href="https://www.google.com"
+            href="https://www.slamonega.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Your company name
+            Formcraft
           </a>
         </p>
-        <a
-          href="https://www.facebook.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <ImFacebook2 className="text-gray-500" />
-        </a>
+        
       </div>
     </div>
   );
